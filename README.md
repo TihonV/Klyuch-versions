@@ -1,5 +1,6 @@
 # Klyuch
 Hacking tool
+
 УСТАНОВКА (ВАЖНО!)
 <img width="1109" height="562" alt="image" src="https://github.com/user-attachments/assets/366fba06-6773-40ea-91dc-8fa48c2ab8df" />
 pip install PyQt5 PyQtWebEngine requests urllib3
@@ -17,3 +18,6 @@ python klyuch_v(?).py
 4.Отчет
 <img width="1854" height="904" alt="image" src="https://github.com/user-attachments/assets/bcd5dfb4-ec7d-4eee-b053-990078a5567e" />
 Пример отчета в репозитории
+
+ВНИМАНИЕ: РЕАЛЬНО Я НЕ СТАЛ ВЗЛАМЫВАТЬ ЭТОТ САЙТ https://www.rammsteinfan.ru/ Т.К. ЭТО ЗАПРЕШЕНО ЗАКОНОМ, ВАМ Я ТАКЖЕ ЭТОГО НЕ СОВЕТУЮ!!
+
